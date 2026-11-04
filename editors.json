@@ -1,4 +1,4 @@
 {
-  "payload": "{\"format\":\"webplays-editors/1\",\"issued\":\"2026-11-04T17:09:00Z\",\"sites\":{\"make-peas\":{\"keys\":[{\"name\":\"bram\",\"hash\":\"39a5be1972202ba63267432635b43dc53f1087d10492018ae0f4c1ddebb87edf\",\"added\":\"2026-11-04\"},{\"name\":\"alfons\",\"hash\":\"a3a33362444dc2274b2a2d87a7a03300d59fae776045c2da8c97eff3f7c8245d\",\"added\":\"2026-11-04\"}]}}}",
-  "sig": "74Vc4zfAl31QkLB6lO9q84ACZUy/f7cEdcjchVbbWsNZgutwGCb/5qMRt3bXqxT+85hVN6DI7GUhNNxNHw/bAg=="
+  "payload": "{\"format\":\"webplays-editors/1\",\"issued\":\"2026-11-04T17:16:53Z\",\"sites\":{\"make-peas\":{\"keys\":[{\"name\":\"alfons\",\"hash\":\"a3a33362444dc2274b2a2d87a7a03300d59fae776045c2da8c97eff3f7c8245d\",\"added\":\"2026-11-04\"}]}}}",
+  "sig": "oZ0IU3rPQp3vjrO+X4fxZ/uRjfWdkRDs6Dp7bxVUTD6tQl2HShV1o3rff0bjyWg5ZKFsF0GGVoeA4JNONhgKBA=="
 }
