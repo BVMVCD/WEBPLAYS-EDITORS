@@ -1,0 +1,15 @@
+{
+  "format": "webplays-editors/1",
+  "minMotor": "",
+  "sites": {
+    "make-peas": {
+      "keys": [
+        {
+          "name": "bram",
+          "hash": "39a5be1972202ba63267432635b43dc53f1087d10492018ae0f4c1ddebb87edf",
+          "added": "2026-11-04"
+        }
+      ]
+    }
+  }
+}
