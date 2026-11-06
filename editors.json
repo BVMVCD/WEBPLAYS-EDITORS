@@ -1,4 +1,4 @@
 {
-  "payload": "{\"format\":\"webplays-editors/1\",\"issued\":\"2026-11-04T22:43:09Z\",\"sites\":{\"make-peas\":{\"keys\":[{\"n\":\"JV48ZuVG5FWQ7MyBKDNx0cd59FwT6PBLEDEGGxJ8zx5suw==\",\"hash\":\"a3a33362444dc2274b2a2d87a7a03300d59fae776045c2da8c97eff3f7c8245d\",\"added\":\"2026-11-04\"},{\"n\":\"tB7ipn64hjlfhzvixf0VoMd2FROmAkGXKZsEh6aoHF4=\",\"hash\":\"9b84a62e4927b8b9be22457425733442f58f8465a5babde7f0147271d2fee579\",\"added\":\"2026-11-04\"}]}}}",
-  "sig": "DsnfJG8nmMmsplWcPrAINp6yCkTWpfKYjIlIqvciB+RkdWPBoQhqaLEAjosLCWEf/a+ZHFnFhHauKfVsz4WpBg=="
+  "payload": "{\"format\":\"webplays-editors/1\",\"issued\":\"2026-11-06T09:31:18Z\",\"sites\":{\"make-peas\":{\"keys\":[{\"n\":\"tB7ipn64hjlfhzvixf0VoMd2FROmAkGXKZsEh6aoHF4=\",\"hash\":\"9b84a62e4927b8b9be22457425733442f58f8465a5babde7f0147271d2fee579\",\"added\":\"2026-11-04\"},{\"n\":\"t0jZYYAIdWdhWIyDMTiGiW+ZXLptV5MicQBJcr37AqFw4Q==\",\"hash\":\"02fc0c194be8df8774f97d21526db598ec180e9abac1d175c960faa6b8a49abd\",\"added\":\"2026-11-06\"}]}}}",
+  "sig": "O1+MgJQQ9HeDmrSUpWdPnzmm4zyD7ortjNWI2xB9myl9xoFPwNx/jokFONmwnKIppp9ih1K4zswSyhNOBUIwCQ=="
 }
